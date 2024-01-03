@@ -2,7 +2,7 @@
 
 ; Script Version: 1.0
 
-; Allows for faster seeking when using Twitch since the site refuses to add the feature.
+; Allows for faster seeking when using Twitch VODs since the site refuses to add the feature.
 ; Only works for if an active window has a Twitch video loaded.
 
 ; Binds:
